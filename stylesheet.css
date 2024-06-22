@@ -1,5 +1,6 @@
 body {
 	/*background-color: #FFDAB9;	*/
+
 	background-color: #000;
 	-webkit-transition: background-color linear 5s;
 	-moz-transition: background-color linear 5s;
@@ -10,7 +11,7 @@ body {
 }
 
 p {
-    margin: 0px -37px -70px;
+	margin: 0px -37px -70px;
 }
 
 .container {
@@ -18,8 +19,9 @@ p {
 }
 
 .peach {
-	background-color: #FFDAB9;
 
+	background-image: url(koko.jpg) !important;
+	background-image: url("koko.jpg") !important;
 }
 
 .peach-after {
@@ -32,111 +34,112 @@ p {
 
 @-webkit-keyframes peach_alive {
 	0% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	25% {
-		background-color: #FFE4B5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	50% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	75% {
-		background-color: #FFEFD5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	100% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 }
 
 @-moz-keyframes peach_alive {
 	0% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	25% {
-		background-color: #FFE4B5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	50% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	75% {
-		background-color: #FFEFD5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	100% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	25% {
-		background-color: #FFE4B5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	50% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	75% {
-		background-color: #FFEFD5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	100% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	25% {
-		background-color: #FFE4B5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	50% {
-		background-color: #FFDAB9;
-	}
+		background-image: url(koko.jpg) !important;
 
-	75% {
-		background-color: #FFEFD5;
-	}
+		75% {
+			background-image: url(koko.jpg) !important;
+		}
 
-	100% {
-		background-color: #FFDAB9;
+		100% {
+			background-image: url(koko.jpg) !important;
+		}
 	}
 }
 
+
 @keyframes peach_alive {
 	0% {
-		background-color: #FFDAB9;
+		background-image: url(koko.jpg) !important;
 	}
 
 	25% {
-		background-color: #FFE4B5;
+		background-image: url(koko.jpg) !important;
 	}
 
 	50% {
-		background-color: #FFDAB9;
-	}
+		background-image: url(koko.jpg) !important;
 
-	75% {
-		background-color: #FFEFD5;
-	}
+		75% {
+			background-image: url(koko.jpg) !important;
+		}
 
-	100% {
-		background-color: #FFDAB9;
+		100% {
+			background-image: url(koko.jpg) !important;
+		}
 	}
 }
 
