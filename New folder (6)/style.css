@@ -177,7 +177,7 @@ a {
           transform: scale(0.8);
           filter: blur(3px);
           border-radius: 5px;
-          background-image: linear-gradient(var(--rotate), #4b6cb7 0%, #182848 100%);
+          background-image: linear-gradient(var(--rotate), #8020a8 0%, #2f39b8 100%);;
           opacity: 1;
           transition: opacity 0.5s;
           animation: spin 2.5s linear infinite; }
