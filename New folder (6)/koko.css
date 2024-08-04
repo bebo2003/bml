@@ -1,12 +1,14 @@
-:root{
-	--color: #000;
+:root {
+  --color: #000;
 }
+
 * {
-	margin: 0;
-	padding:0;
-	box-sizing: border-box;
-    background-image: url();
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url();
 }
+
 /* body {
 	background: #252525;
 	color: #fff;
@@ -163,4 +165,8 @@ button:hover .star-6 {
 
 .fil0 {
   fill: #FFFDEF
+}
+
+.bebo {
+ font-size: 2rem;
 }
